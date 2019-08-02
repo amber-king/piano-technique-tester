@@ -1,4 +1,4 @@
-# piano-technique-tester
+# [piano-technique-tester](https://amber-king.github.io/piano-technique-tester/)
 A website to help learn RCM piano technique.
 
 --UNFINISHED (most likely will never be finished)--
